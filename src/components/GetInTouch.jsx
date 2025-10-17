@@ -22,7 +22,7 @@ const GetInTouch = () => {
         >
             <Title 
             text={
-                'Tas aí o que, Zekinha??'
+                'Tas aí o que, Zekinha'
                 } 
             textAlign={'center'}
             />
